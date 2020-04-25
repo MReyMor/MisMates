@@ -1,0 +1,23 @@
+#header{
+    margin: 30px 0px 30px 0px;
+}
+
+.col-6, .col-sm-3, .col-md-3{
+    padding-right:0px !important;
+    padding-left:0px !important;
+    padding: 5px !important;}
+
+.eso1{background-color: cadetblue;}
+.eso2{background-color: darksalmon;}
+.eso3{background-color: darkseagreen;}
+.eso4{background-color: rgb(233, 216, 122);}
+
+.eso1>a, .eso2>a, .eso3>a, .eso4>a{
+    font-size: 1.5em;
+    color:#fff;
+}
+
+.eso1, .eso2, .eso3, .eso4 {
+    text-align: center;
+    padding: 10%;  
+}
